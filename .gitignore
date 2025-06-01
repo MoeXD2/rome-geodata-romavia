@@ -15,3 +15,9 @@ bus_routes.json
 
 # Ignore any .txt files
 *.txt
+
+# ignore any .js files
+*.js
+
+# ignore any .html files
+*.html
