@@ -1,0 +1,17 @@
+# Ignore .venv directory
+.venv/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore bus_routes.json
+bus_routes.json
+
+# Ignore any .py files
+*.py
+
+# Ignore any .txt files
+*.txt
